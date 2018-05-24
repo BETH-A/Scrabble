@@ -1,6 +1,4 @@
 # Scrabble
-Scrabble App
-
 
 Give a variable number of words, a program to output the word with the maximum score, based on the following scoring system:
 
